@@ -158,8 +158,6 @@ input::placeholder {
     width: 130px;
     height: 130px;
     border-radius: 50%;
-    /* border-bottom-left-radius: 30%;
-    border-bottom-right-radius: 40%; */
     object-fit: cover;
     display: inline-block;
 }
